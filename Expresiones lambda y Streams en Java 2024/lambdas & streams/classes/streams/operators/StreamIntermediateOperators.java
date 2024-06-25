@@ -1,9 +1,12 @@
-package classes.streams;
+package classes.streams.operators;
+
+import classes.streams.utils.BasicVideoGame;
+import classes.streams.utils.Database;
+import classes.streams.utils.Videogame;
 
 import java.util.Comparator;
 import java.util.List;
 import java.util.logging.Logger;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class StreamIntermediateOperators {

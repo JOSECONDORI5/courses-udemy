@@ -1,4 +1,4 @@
-package classes.streams;
+package classes.streams.utils;
 
 public class BasicVideoGameBuilder {
     private String name;

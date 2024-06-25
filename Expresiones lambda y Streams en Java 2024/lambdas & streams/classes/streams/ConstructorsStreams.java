@@ -1,5 +1,8 @@
 package classes.streams;
 
+import classes.streams.utils.Database;
+import classes.streams.utils.Videogame;
+
 import java.util.Arrays;
 import java.util.logging.Logger;
 import java.util.stream.DoubleStream;

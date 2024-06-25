@@ -1,5 +1,9 @@
 package classes.streams;
 
+import classes.streams.utils.Database;
+import classes.streams.utils.Review;
+import classes.streams.utils.Videogame;
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.logging.Logger;

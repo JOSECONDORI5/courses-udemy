@@ -1,4 +1,7 @@
-package classes.streams;
+package classes.streams.operators;
+
+import classes.streams.utils.Database;
+import classes.streams.utils.Videogame;
 
 import java.util.Comparator;
 import java.util.Optional;

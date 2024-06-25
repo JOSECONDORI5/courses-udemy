@@ -1,4 +1,7 @@
-package classes.streams;
+package classes.streams.collectors;
+
+import classes.streams.utils.Database;
+import classes.streams.utils.Videogame;
 
 import java.util.Map;
 import java.util.logging.Logger;

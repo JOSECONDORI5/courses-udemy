@@ -1,4 +1,4 @@
-package classes;
+package classes.lambdas;
 
 import java.util.Arrays;
 import java.util.Comparator;

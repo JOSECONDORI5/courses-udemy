@@ -1,4 +1,9 @@
-package classes.streams;
+package classes.lambdas;
+
+import classes.streams.utils.Console;
+import classes.streams.utils.Database;
+import classes.streams.utils.Review;
+import classes.streams.utils.Videogame;
 
 import java.util.Comparator;
 import java.util.NoSuchElementException;
